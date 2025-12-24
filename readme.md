@@ -1,6 +1,6 @@
 ### Nama   : Rhegard Putra Davinto
 ### NIM    : 24090099
-### Kelas  : #C
+### Kelas  : 3C
 
 
 # CARA MENJALANKAN
