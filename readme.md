@@ -9,7 +9,6 @@
 2. Jalankan server terlebih dahulu di terminal cmd (jangan lupa masuk direktori yg benar) sebelum meulai proses CRUD,dengan cara :
 "npm run dev"
 3. Seletah server sukses berjalan di lokal selanjutanya buka app postman 
-4. 
 ---------------------------------------------------------------------------
 
 <H1>---Categories---</H1>
